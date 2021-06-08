@@ -48,7 +48,7 @@ let cerrar = document.querySelectorAll(".close");
       content.classList.add("animate__animated")
       //Agregar regreso a pagina principal junto con un Timer para la animacion
       setTimeout(function functionName() {
-          location.href = "/";
+          location.href = "/tabla";
       },600);
 
 
